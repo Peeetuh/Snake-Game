@@ -1,0 +1,20 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://wallpaperaccess.com/full/1089608.png');
+}
+
+canvas {
+    box-shadow: black 15px 10px 40px;
+    font-family: 'Beau Rivage', cursive;
+}
+
+
+
+h1 {
+    font-family: 'Beau Rivage', cursive;
+}
